@@ -10,9 +10,13 @@
           <option name="url" value="https://github.com/pavel-sobchenko/pageobject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yashaka/selene/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\pavel.sobchanka\PycharmProjects\PageObj" />
+    <option name="cloneParentDir" value="C:\Users\pavel.sobchanka\PycharmProjects\" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
